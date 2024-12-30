@@ -1,2 +1,1 @@
-This repo  
-with devops's tasks  
+This repo with devops's tasks.
