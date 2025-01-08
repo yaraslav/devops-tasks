@@ -1,0 +1,3 @@
+[submodule "git-checkout"]
+	path = git-checkout
+	url = https://devops-gitlab.inno.ws/devops-board/git-checkout.git
